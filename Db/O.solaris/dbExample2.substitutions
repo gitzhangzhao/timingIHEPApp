@@ -1,0 +1,5 @@
+file dbExample2.template {
+{ USER="liuzhi", NO="1", SCAN="1 second" }
+{ USER="liuzhi", NO="2", SCAN="2 second" }
+{ USER="liuzhi", NO="3", SCAN="5 second" }
+}
